@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>JavaVariables</name>
+=======
+	<name>JavaVariables_</name>
+>>>>>>> 5a5bd894690b5c6e54819689a6d6bea987108ff7
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 	</buildSpec>
 	<natures>
+=======
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 5a5bd894690b5c6e54819689a6d6bea987108ff7
 	</natures>
 </projectDescription>

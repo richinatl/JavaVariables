@@ -1,0 +1,2 @@
+module JavaVariables_ {
+}
